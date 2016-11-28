@@ -1,0 +1,1 @@
+RewriteRule ^(.*)$ http://baytic.com [R=301,L]
