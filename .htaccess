@@ -1,1 +1,2 @@
-RewriteRule ^(.*)$ http://baytic.com [R=301,L]
+RewriteEngine on
+RewriteRule (.*) http://www.baytic.com/ [R=301,L]
